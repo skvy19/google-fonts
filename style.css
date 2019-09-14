@@ -1,0 +1,23 @@
+*{
+    margin: 10px 0px 0px 20px;
+}
+
+.font-effect-outline{
+    font-family: 'Titan One', cursive;
+    color:lightblue;
+}
+
+.font-effect-fire{
+    font-family: 'Anton', sans-serif;
+}
+
+.font-effect-outline.font-effect-destruction{
+    font-family: 'Capriola', sans-serif;
+    font-family: 'Lobster', cursive;
+    font-family: 'Alfa Slab One', cursive;
+    font-size: 24px;
+}
+
+.font-effect-destruction{
+    color: lightgrey;
+}
